@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maheshkamani309
-- 👀 I’m interested in to do webdevelopment with PHP and JS framworks.
+- 👀 I’m interested to do webdevelopment with PHP and JS framworks.
 - 🌱 I’m currently learning deep in Laravel
 - 💞️ I’m looking to collaborate on any laravel related projects which will increase my knowledge
 - 📫 How to reach me my gmail address is my user name
