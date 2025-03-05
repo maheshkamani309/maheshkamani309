@@ -43,6 +43,6 @@ I am eager to leverage my technical skills and collaborate in a professional set
   </tr>
 </tbody></table></markdown-accessiblity-table> 
   <p dir="auto">
-    <a href="https://www.upwork.com/freelancers/maheshkamani309" target="_blank"><img src="https://raw.githubusercontent.com/maheshkamani309/git/refs/heads/main/upwork.png"></a><br>    
+    <a href="https://www.upwork.com/freelancers/maheshkamani309" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/maheshkamani309/git/refs/heads/main/upwork.png"></a><br>    
   </p>
 </article>
